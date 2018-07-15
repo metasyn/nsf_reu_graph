@@ -1,0 +1,731 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>14/07/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Alabama State University" label="Alabama State University" />
+      <node id="American Museum of Natural History" label="American Museum of Natural History" />
+      <node id="Archaeology Southwest" label="Archaeology Southwest" />
+      <node id="Arecibo Observatory" label="Arecibo Observatory" />
+      <node id="Arizona State University" label="Arizona State University" />
+      <node id="Auburn University" label="Auburn University" />
+      <node id="Bermuda Institute of Ocean Sciences" label="Bermuda Institute of Ocean Sciences" />
+      <node id="Bethune-Cookman University" label="Bethune-Cookman University" />
+      <node id="Bigelow Laboratory for Ocean Sciences" label="Bigelow Laboratory for Ocean Sciences" />
+      <node id="Binghamton University" label="Binghamton University" />
+      <node id="Black Hills State University" label="Black Hills State University" />
+      <node id="Boise State University" label="Boise State University" />
+      <node id="Boston College" label="Boston College" />
+      <node id="Boston University" label="Boston University" />
+      <node id="Boyce Thompson Institute" label="Boyce Thompson Institute" />
+      <node id="Brandeis University" label="Brandeis University" />
+      <node id="Brigham Young University" label="Brigham Young University" />
+      <node id="California Academy of Sciences" label="California Academy of Sciences" />
+      <node id="California State University at Chico" label="California State University at Chico" />
+      <node id="Case Western Reserve University" label="Case Western Reserve University" />
+      <node id="Central Washington University" label="Central Washington University" />
+      <node id="chemistry, biochemistry, spectroscopy, imaging" label="chemistry, biochemistry, spectroscopy, imaging" />
+      <node id="City College of New York" label="City College of New York" />
+      <node id="City University of New York" label="City University of New York" />
+      <node id="Clarkson University" label="Clarkson University" />
+      <node id="Clemson University" label="Clemson University" />
+      <node id="Cleveland State University" label="Cleveland State University" />
+      <node id="Coastal Carolina University" label="Coastal Carolina University" />
+      <node id="Coe College" label="Coe College" />
+      <node id="Cold Spring Harbor Laboratory" label="Cold Spring Harbor Laboratory" />
+      <node id="College of Staten Island (City University of New York)" label="College of Staten Island (City University of New York)" />
+      <node id="College of William and Mary" label="College of William and Mary" />
+      <node id="College of Wooster" label="College of Wooster" />
+      <node id="Colorado State University" label="Colorado State University" />
+      <node id="Columbia University" label="Columbia University" />
+      <node id="Columbus State University" label="Columbus State University" />
+      <node id="Cornell University" label="Cornell University" />
+      <node id="CUNY Brooklyn College" label="CUNY Brooklyn College" />
+      <node id="CUNY Queensborough Community College" label="CUNY Queensborough Community College" />
+      <node id="Dauphin Island Sea Lab" label="Dauphin Island Sea Lab" />
+      <node id="DePaul University" label="DePaul University" />
+      <node id="Donald Danforth Plant Science Center" label="Donald Danforth Plant Science Center" />
+      <node id="Drexel University" label="Drexel University" />
+      <node id="Duke University" label="Duke University" />
+      <node id="Earlham College" label="Earlham College" />
+      <node id="Eastern Kentucky University" label="Eastern Kentucky University" />
+      <node id="Field Museum of Natural History" label="Field Museum of Natural History" />
+      <node id="Florida A&amp;M University" label="Florida A&amp;M University" />
+      <node id="Florida International University" label="Florida International University" />
+      <node id="Florida State University" label="Florida State University" />
+      <node id="GA Tech Research Corporation" label="GA Tech Research Corporation" />
+      <node id="Georgetown University" label="Georgetown University" />
+      <node id="Georgia Institute of  Technology" label="Georgia Institute of  Technology" />
+      <node id="Georgia Institute of Technology" label="Georgia Institute of Technology" />
+      <node id="Harvard Smithsonian Center for Astrophysics" label="Harvard Smithsonian Center for Astrophysics" />
+      <node id="Harvard University" label="Harvard University" />
+      <node id="Hobart and William Smith Colleges" label="Hobart and William Smith Colleges" />
+      <node id="Humboldt State University" label="Humboldt State University" />
+      <node id="Illinois Institute of Technology" label="Illinois Institute of Technology" />
+      <node id="Indiana University" label="Indiana University" />
+      <node id="Indiana University Purdue University Indianapolis" label="Indiana University Purdue University Indianapolis" />
+      <node id="Indiana University-Purdue University Indianapolis (IUPUI)" label="Indiana University-Purdue University Indianapolis (IUPUI)" />
+      <node id="Institute of Ecosystem Studies" label="Institute of Ecosystem Studies" />
+      <node id="Iowa State University" label="Iowa State University" />
+      <node id="Johns Hopkins University" label="Johns Hopkins University" />
+      <node id="Johnson C. Smith University" label="Johnson C. Smith University" />
+      <node id="Kansas State University" label="Kansas State University" />
+      <node id="Kennesaw State University" label="Kennesaw State University" />
+      <node id="Kent State University" label="Kent State University" />
+      <node id="Kenyon College" label="Kenyon College" />
+      <node id="Kettering University" label="Kettering University" />
+      <node id="Lamar University" label="Lamar University" />
+      <node id="Lehigh University" label="Lehigh University" />
+      <node id="Long Island University" label="Long Island University" />
+      <node id="Louisiana State University" label="Louisiana State University" />
+      <node id="LSU, LA Tech, Southern, Tulane, UNO, Xavier" label="LSU, LA Tech, Southern, Tulane, UNO, Xavier" />
+      <node id="Macalester College" label="Macalester College" />
+      <node id="Marine Biological Laboratory" label="Marine Biological Laboratory" />
+      <node id="Marquette University" label="Marquette University" />
+      <node id="Michigan State University" label="Michigan State University" />
+      <node id="Mississippi State University" label="Mississippi State University" />
+      <node id="Missouri Botanical Garden" label="Missouri Botanical Garden" />
+      <node id="Missouri State University" label="Missouri State University" />
+      <node id="Montana State University" label="Montana State University" />
+      <node id="Muhlenberg College" label="Muhlenberg College" />
+      <node id="Nantucket Maria Mitchell Association" label="Nantucket Maria Mitchell Association" />
+      <node id="National Radio Astronomy Observatory" label="National Radio Astronomy Observatory" />
+      <node id="New Jersey Institute of Technology" label="New Jersey Institute of Technology" />
+      <node id="New Mexico Institute of Mining and Technology" label="New Mexico Institute of Mining and Technology" />
+      <node id="New Mexico State University" label="New Mexico State University" />
+      <node id="New York University" label="New York University" />
+      <node id="North Carolina State University" label="North Carolina State University" />
+      <node id="Northeastern University" label="Northeastern University" />
+      <node id="Northern Arizona University" label="Northern Arizona University" />
+      <node id="Northwestern University" label="Northwestern University" />
+      <node id="Ohio State University" label="Ohio State University" />
+      <node id="Ohio University" label="Ohio University" />
+      <node id="Ohio Wesleyan University" label="Ohio Wesleyan University" />
+      <node id="Oklahoma State University" label="Oklahoma State University" />
+      <node id="Old Dominion University" label="Old Dominion University" />
+      <node id="Oregon State University" label="Oregon State University" />
+      <node id="Parkland College" label="Parkland College" />
+      <node id="Pennsylvania State University" label="Pennsylvania State University" />
+      <node id="Pepperdine University" label="Pepperdine University" />
+      <node id="Princeton University" label="Princeton University" />
+      <node id="Purdue University" label="Purdue University" />
+      <node id="Rice University" label="Rice University" />
+      <node id="Rochester Institute of Technology" label="Rochester Institute of Technology" />
+      <node id="Rochester Institute of  Technology" label="Rochester Institute of  Technology" />
+      <node id="Rocky Mountain Biological Laboratory" label="Rocky Mountain Biological Laboratory" />
+      <node id="Rutgers University - Camden" label="Rutgers University - Camden" />
+      <node id="Salisbury University" label="Salisbury University" />
+      <node id="San Francisco State University" label="San Francisco State University" />
+      <node id="San Jose State University" label="San Jose State University" />
+      <node id="Scripps Institution of Oceanography - UCSD" label="Scripps Institution of Oceanography - UCSD" />
+      <node id="Sea Research Foundation" label="Sea Research Foundation" />
+      <node id="Smithsonian Astrophysical Observatory" label="Smithsonian Astrophysical Observatory" />
+      <node id="Smithsonian Institution" label="Smithsonian Institution" />
+      <node id="Southern Illinois University at Carbondale" label="Southern Illinois University at Carbondale" />
+      <node id="Southern Illinois University at Edwardsville" label="Southern Illinois University at Edwardsville" />
+      <node id="SUNY College at Geneseo" label="SUNY College at Geneseo" />
+      <node id="Syracuse University" label="Syracuse University" />
+      <node id="Tarleton State University" label="Tarleton State University" />
+      <node id="Temple University" label="Temple University" />
+      <node id="Tennessee Tech University" label="Tennessee Tech University" />
+      <node id="Texas A &amp; M University" label="Texas A &amp; M University" />
+      <node id="Texas A&amp;M University" label="Texas A&amp;M University" />
+      <node id="Texas A&amp;M University, Galveston" label="Texas A&amp;M University, Galveston" />
+      <node id="Texas Christian University" label="Texas Christian University" />
+      <node id="Texas State University" label="Texas State University" />
+      <node id="The Children's Hospital of Philadelphia" label="The Children's Hospital of Philadelphia" />
+      <node id="The College of Wooster" label="The College of Wooster" />
+      <node id="The Scripps Research Institute" label="The Scripps Research Institute" />
+      <node id="Tufts University" label="Tufts University" />
+      <node id="Univeristy of Idaho" label="Univeristy of Idaho" />
+      <node id="University Corporation for Atmospheric Research" label="University Corporation for Atmospheric Research" />
+      <node id="University of Akron" label="University of Akron" />
+      <node id="University of Alabama at Birmingham" label="University of Alabama at Birmingham" />
+      <node id="University of Arizona" label="University of Arizona" />
+      <node id="University of Arkansas" label="University of Arkansas" />
+      <node id="University of California, Davis" label="University of California, Davis" />
+      <node id="University of California, Irvine" label="University of California, Irvine" />
+      <node id="University of California, Los Angeles" label="University of California, Los Angeles" />
+      <node id="University of California, San Diego" label="University of California, San Diego" />
+      <node id="University of California, Santa Barbara" label="University of California, Santa Barbara" />
+      <node id="University of  California - Berkeley" label="University of  California - Berkeley" />
+      <node id="University of California - Davis" label="University of California - Davis" />
+      <node id="University of California - Merced" label="University of California - Merced" />
+      <node id="University of California - Riverside" label="University of California - Riverside" />
+      <node id="University of California Riverside" label="University of California Riverside" />
+      <node id="University of California San Francisco" label="University of California San Francisco" />
+      <node id="University of Central Oklahoma" label="University of Central Oklahoma" />
+      <node id="University of Chicago" label="University of Chicago" />
+      <node id="University of Colorado, Boulder" label="University of Colorado, Boulder" />
+      <node id="University of Colorado at Boulder" label="University of Colorado at Boulder" />
+      <node id="University of Colorado Boulder" label="University of Colorado Boulder" />
+      <node id="University of Connecticut" label="University of Connecticut" />
+      <node id="University of Delaware" label="University of Delaware" />
+      <node id="University of Florida" label="University of Florida" />
+      <node id="University of Georgia" label="University of Georgia" />
+      <node id="University of Georgia Research Foundation, INC" label="University of Georgia Research Foundation, INC" />
+      <node id="University of Georgia Research Foundation Inc." label="University of Georgia Research Foundation Inc." />
+      <node id="University of Hawaii" label="University of Hawaii" />
+      <node id="University of Hawaii, Institute for Astronomy" label="University of Hawaii, Institute for Astronomy" />
+      <node id="University of Hawaii at Hilo" label="University of Hawaii at Hilo" />
+      <node id="University of Hawaii at M&amp;#257;noa campus" label="University of Hawaii at M&amp;#257;noa campus" />
+      <node id="University of Houston" label="University of Houston" />
+      <node id="University of Illinois at Urbana-Champaign" label="University of Illinois at Urbana-Champaign" />
+      <node id="University of Iowa" label="University of Iowa" />
+      <node id="University of Kansas" label="University of Kansas" />
+      <node id="University of Kentucky" label="University of Kentucky" />
+      <node id="University of Louisiana at Lafayette" label="University of Louisiana at Lafayette" />
+      <node id="University of Maine" label="University of Maine" />
+      <node id="University of Maryland" label="University of Maryland" />
+      <node id="University of Massachusettes Boston" label="University of Massachusettes Boston" />
+      <node id="University of Massachusetts, Amherst" label="University of Massachusetts, Amherst" />
+      <node id="University of Massachusetts-Boston" label="University of Massachusetts-Boston" />
+      <node id="University of Massachusetts Dartmouth" label="University of Massachusetts Dartmouth" />
+      <node id="University of Michigan" label="University of Michigan" />
+      <node id="University of Michigan Ann Arbor" label="University of Michigan Ann Arbor" />
+      <node id="University of Michigan-Dearborn" label="University of Michigan-Dearborn" />
+      <node id="University of Minnesota Duluth" label="University of Minnesota Duluth" />
+      <node id="University of Minnesota-Twin Cities" label="University of Minnesota-Twin Cities" />
+      <node id="University of Missouri" label="University of Missouri" />
+      <node id="University of Missouri-Kansas City" label="University of Missouri-Kansas City" />
+      <node id="University of Montana" label="University of Montana" />
+      <node id="University of Nebraska-Lincoln" label="University of Nebraska-Lincoln" />
+      <node id="University of Nebraska - Lincoln" label="University of Nebraska - Lincoln" />
+      <node id="University of Nevada, Reno" label="University of Nevada, Reno" />
+      <node id="University of Nevada Las Vegas" label="University of Nevada Las Vegas" />
+      <node id="University of New Mexico" label="University of New Mexico" />
+      <node id="University of New Orleans" label="University of New Orleans" />
+      <node id="University of North Carolina at Chapel Hill" label="University of North Carolina at Chapel Hill" />
+      <node id="University of North Carolina at Charlotte" label="University of North Carolina at Charlotte" />
+      <node id="University of North Carolina-Chapel Hill" label="University of North Carolina-Chapel Hill" />
+      <node id="University of North Carolina - Charlotte" label="University of North Carolina - Charlotte" />
+      <node id="University of North Dakota" label="University of North Dakota" />
+      <node id="University of North Dakota (UND)" label="University of North Dakota (UND)" />
+      <node id="University of North Florida" label="University of North Florida" />
+      <node id="University of North Texas" label="University of North Texas" />
+      <node id="University of Notre Dame" label="University of Notre Dame" />
+      <node id="University of Oklahoma Norman Campus" label="University of Oklahoma Norman Campus" />
+      <node id="University of Oregon" label="University of Oregon" />
+      <node id="University of Pennsylvania" label="University of Pennsylvania" />
+      <node id="University of Pittsburgh" label="University of Pittsburgh" />
+      <node id="University of Puerto Rico" label="University of Puerto Rico" />
+      <node id="University of Puerto Rico Río Piedras" label="University of Puerto Rico Río Piedras" />
+      <node id="University of Puerto Rico Río Piedras Campus" label="University of Puerto Rico Río Piedras Campus" />
+      <node id="University of Rhode Island" label="University of Rhode Island" />
+      <node id="University of Rochester" label="University of Rochester" />
+      <node id="University of South Carolina" label="University of South Carolina" />
+      <node id="University of South Dakota" label="University of South Dakota" />
+      <node id="University of Southern California" label="University of Southern California" />
+      <node id="University of South Florida" label="University of South Florida" />
+      <node id="University of Tennessee" label="University of Tennessee" />
+      <node id="University of Texas" label="University of Texas" />
+      <node id="University of Texas at  Austin" label="University of Texas at  Austin" />
+      <node id="University of Texas at El Paso" label="University of Texas at El Paso" />
+      <node id="University of Texas - Austin" label="University of Texas - Austin" />
+      <node id="University of Toledo" label="University of Toledo" />
+      <node id="University of Vermont" label="University of Vermont" />
+      <node id="University of Vermont &amp; State Agricultural College" label="University of Vermont &amp; State Agricultural College" />
+      <node id="University of Virginia" label="University of Virginia" />
+      <node id="University of Washington" label="University of Washington" />
+      <node id="University of Wisconsin Madison" label="University of Wisconsin Madison" />
+      <node id="University of Wisconsin-Madison" label="University of Wisconsin-Madison" />
+      <node id="University of Wisconsin-Oshkosh" label="University of Wisconsin-Oshkosh" />
+      <node id="University of Wisconsin - Stout" label="University of Wisconsin - Stout" />
+      <node id="University of Wisconsin-Stout" label="University of Wisconsin-Stout" />
+      <node id="University of Wyoming" label="University of Wyoming" />
+      <node id="Vanderbilt University" label="Vanderbilt University" />
+      <node id="Virginia Institute of Marine Science" label="Virginia Institute of Marine Science" />
+      <node id="Virginia Polytechnic Institute and State University or Virginia Tech" label="Virginia Polytechnic Institute and State University or Virginia Tech" />
+      <node id="Washington State University" label="Washington State University" />
+      <node id="Washington University in St. Louis" label="Washington University in St. Louis" />
+      <node id="Wayne State University" label="Wayne State University" />
+      <node id="Western Washington University, Anacortes, WA." label="Western Washington University, Anacortes, WA." />
+      <node id="West Virginia University" label="West Virginia University" />
+      <node id="William Marsh Rice University" label="William Marsh Rice University" />
+      <node id="Woods Hole Oceanographic Institution" label="Woods Hole Oceanographic Institution" />
+      <node id="Worcester Polytechnic Institute" label="Worcester Polytechnic Institute" />
+      <node id="biology" label="biology" />
+      <node id="earth science" label="earth science" />
+      <node id="evolution" label="evolution" />
+      <node id="archaeology" label="archaeology" />
+      <node id="astronomy" label="astronomy" />
+      <node id="solar cells" label="solar cells" />
+      <node id="oceanography" label="oceanography" />
+      <node id="math modeling" label="math modeling" />
+      <node id="renewable energy" label="renewable energy" />
+      <node id="physics" label="physics" />
+      <node id="mathematics" label="mathematics" />
+      <node id="energy generation" label="energy generation" />
+      <node id="chemistry" label="chemistry" />
+      <node id="plant" label="plant" />
+      <node id="cell biology" label="cell biology" />
+      <node id="atomic physics" label="atomic physics" />
+      <node id="phylogenetics" label="phylogenetics" />
+      <node id="knot theory" label="knot theory" />
+      <node id="batteries" label="batteries" />
+      <node id="climate science" label="climate science" />
+      <node id="meteorology" label="meteorology" />
+      <node id="marine science" label="marine science" />
+      <node id="materials" label="materials" />
+      <node id="cryptography" label="cryptography" />
+      <node id="rehabilitation" label="rehabilitation" />
+      <node id="climate change" label="climate change" />
+      <node id="network reliability" label="network reliability" />
+      <node id="linear algebra" label="linear algebra" />
+      <node id="biosciences" label="biosciences" />
+      <node id="nsec" label="nsec" />
+      <node id="security" label="security" />
+      <node id="optimal control" label="optimal control" />
+      <node id="marine" label="marine" />
+      <node id="medical informatics" label="medical informatics" />
+      <node id="energy" label="energy" />
+      <node id="marine biology" label="marine biology" />
+      <node id="grand challenges" label="grand challenges" />
+      <node id="sensors" label="sensors" />
+      <node id="micro air vehicles" label="micro air vehicles" />
+      <node id="photochemistry" label="photochemistry" />
+      <node id="robotics" label="robotics" />
+      <node id="esperimental" label="esperimental" />
+      <node id="data analytics" label="data analytics" />
+      <node id="chemical ecology" label="chemical ecology" />
+      <node id="solar astronomy" label="solar astronomy" />
+      <node id="micromechanics" label="micromechanics" />
+      <node id="combin" label="combin" />
+      <node id="food safety" label="food safety" />
+      <node id="applied mathematics" label="applied mathematics" />
+      <node id="nanomaterials" label="nanomaterials" />
+      <node id="data science" label="data science" />
+      <node id="cyber security" label="cyber security" />
+      <node id="wind energy" label="wind energy" />
+      <node id="biocatalysts" label="biocatalysts" />
+      <node id="nanobiotechnology" label="nanobiotechnology" />
+      <node id="social inequalities" label="social inequalities" />
+      <node id="engineering" label="engineering" />
+      <node id="number theory" label="number theory" />
+      <node id="ring theory" label="ring theory" />
+      <node id="machine learning" label="machine learning" />
+      <node id="linguistics" label="linguistics" />
+      <node id="materials science" label="materials science" />
+      <node id="paleontology" label="paleontology" />
+      <node id="plant genomics" label="plant genomics" />
+      <node id="nuclear" label="nuclear" />
+      <node id="environmental" label="environmental" />
+      <node id="algebra" label="algebra" />
+      <node id="chemical biology" label="chemical biology" />
+      <node id="optics" label="optics" />
+      <node id="malware detection" label="malware detection" />
+      <node id="colloids" label="colloids" />
+      <node id="nyu" label="nyu" />
+      <node id="nano-enabled" label="nano-enabled" />
+      <node id="software analytics" label="software analytics" />
+      <node id="research" label="research" />
+      <node id="instrumentation" label="instrumentation" />
+      <node id="psychology" label="psychology" />
+      <node id="coastal zone" label="coastal zone" />
+      <node id="networks" label="networks" />
+      <node id="biomaterials" label="biomaterials" />
+      <node id="cardiovascular" label="cardiovascular" />
+      <node id="ecology" label="ecology" />
+      <node id="molecular biology" label="molecular biology" />
+      <node id="nanoscience" label="nanoscience" />
+      <node id="algebraic geometry" label="algebraic geometry" />
+      <node id="graph theory" label="graph theory" />
+      <node id="acquisition" label="acquisition" />
+      <node id="parallel computing" label="parallel computing" />
+      <node id="geoscience" label="geoscience" />
+      <node id="materials chemistry" label="materials chemistry" />
+      <node id="nuclear physics" label="nuclear physics" />
+      <node id="trauma research" label="trauma research" />
+      <node id="pervasive computing" label="pervasive computing" />
+      <node id="manufacturing" label="manufacturing" />
+      <node id="air quality" label="air quality" />
+      <node id="astrophysics" label="astrophysics" />
+      <node id="uav" label="uav" />
+      <node id="water" label="water" />
+      <node id="biodiversity" label="biodiversity" />
+      <node id="atomic" label="atomic" />
+      <node id="innovation" label="innovation" />
+      <node id="injury science" label="injury science" />
+      <node id="atmospheric science" label="atmospheric science" />
+      <node id="polymer chemistry" label="polymer chemistry" />
+      <node id="autonomous cars" label="autonomous cars" />
+      <node id="nanotechnology" label="nanotechnology" />
+      <node id="bio-inspired" label="bio-inspired" />
+      <node id="internet-of-things" label="internet-of-things" />
+      <node id="damage assessment" label="damage assessment" />
+      <node id="big data" label="big data" />
+      <node id="genetics/genomics" label="genetics/genomics" />
+      <node id="amo" label="amo" />
+      <node id="geometry" label="geometry" />
+      <node id="solar physics" label="solar physics" />
+      <node id="organic" label="organic" />
+      <node id="inorganic" label="inorganic" />
+      <node id="microbiology" label="microbiology" />
+      <node id="bioarchaeology" label="bioarchaeology" />
+      <node id="geology" label="geology" />
+      <node id="neurotechnology" label="neurotechnology" />
+      <node id="bioengineering" label="bioengineering" />
+      <node id="chemical eng." label="chemical eng." />
+      <node id="biochemistry" label="biochemistry" />
+      <node id="watershed science" label="watershed science" />
+      <node id="sustainable" label="sustainable" />
+      <node id="crytography" label="crytography" />
+      <node id="nanophotonics" label="nanophotonics" />
+      <node id="sustainable energy" label="sustainable energy" />
+      <node id="combinatorics" label="combinatorics" />
+      <node id="civil engineering" label="civil engineering" />
+      <node id="tectonics" label="tectonics" />
+      <node id="health disparities" label="health disparities" />
+      <node id="sustainability" label="sustainability" />
+      <node id="redox biology" label="redox biology" />
+      <node id="synthesis" label="synthesis" />
+      <node id="genetics" label="genetics" />
+      <node id="analytics" label="analytics" />
+      <node id="biotechnology" label="biotechnology" />
+      <node id="bioinformatics" label="bioinformatics" />
+      <node id="renewable chemistry" label="renewable chemistry" />
+      <node id="software testing" label="software testing" />
+      <node id="cloud computing" label="cloud computing" />
+      <node id="severe storms" label="severe storms" />
+      <node id="molecular" label="molecular" />
+      <node id="puerto rico" label="puerto rico" />
+      <node id="particle physics" label="particle physics" />
+      <node id="fluorine" label="fluorine" />
+      <node id="physical" label="physical" />
+      <node id="object-oriented" label="object-oriented" />
+      <node id="weather" label="weather" />
+      <node id="wireless networking" label="wireless networking" />
+      <node id="physics (amo)" label="physics (amo)" />
+      <node id="biogeochemistry" label="biogeochemistry" />
+      <node id="neuroscience" label="neuroscience" />
+      <node id="population biology" label="population biology" />
+      <node id="solar" label="solar" />
+      <node id="agriculture" label="agriculture" />
+      <node id="biofilms" label="biofilms" />
+      <node id="computer science" label="computer science" />
+      <node id="nanotechnology " label="nanotechnology " />
+    </nodes>
+    <edges>
+      <edge id="0" source="Alabama State University" target="biology" />
+      <edge id="1" source="American Museum of Natural History" target="earth science" />
+      <edge id="2" source="American Museum of Natural History" target="evolution" />
+      <edge id="3" source="Archaeology Southwest" target="archaeology" />
+      <edge id="4" source="Arecibo Observatory" target="astronomy" />
+      <edge id="5" source="Arizona State University" target="solar cells" />
+      <edge id="6" source="Auburn University" target="biology" />
+      <edge id="7" source="Bermuda Institute of Ocean Sciences" target="oceanography" />
+      <edge id="8" source="Bethune-Cookman University" target="math modeling" />
+      <edge id="9" source="Bigelow Laboratory for Ocean Sciences" target="oceanography" />
+      <edge id="10" source="Binghamton University" target="renewable energy" />
+      <edge id="11" source="Black Hills State University" target="physics" />
+      <edge id="12" source="Boise State University" target="mathematics" />
+      <edge id="13" source="Boise State University" target="energy generation" />
+      <edge id="14" source="Boston College" target="biology" />
+      <edge id="15" source="Boston University" target="chemistry" />
+      <edge id="16" source="Boston University" target="biology" />
+      <edge id="17" source="Boyce Thompson Institute" target="plant" />
+      <edge id="18" source="Brandeis University" target="cell biology" />
+      <edge id="19" source="Brigham Young University" target="chemistry" />
+      <edge id="20" source="Brigham Young University" target="atomic physics" />
+      <edge id="21" source="California Academy of Sciences" target="phylogenetics" />
+      <edge id="22" source="California State University at Chico" target="knot theory" />
+      <edge id="23" source="Case Western Reserve University" target="batteries" />
+      <edge id="24" source="Central Washington University" target="climate science" />
+      <edge id="25" source="chemistry, biochemistry, spectroscopy, imaging" target="chemistry" />
+      <edge id="26" source="City College of New York" target="biology" />
+      <edge id="27" source="City University of New York" target="meteorology" />
+      <edge id="28" source="Clarkson University" target="marine science" />
+      <edge id="29" source="Clemson University" target="materials" />
+      <edge id="30" source="Clemson University" target="biology" />
+      <edge id="31" source="Clemson University" target="cryptography" />
+      <edge id="32" source="Cleveland State University" target="rehabilitation" />
+      <edge id="33" source="Coastal Carolina University" target="climate change" />
+      <edge id="34" source="Coe College" target="physics" />
+      <edge id="35" source="Cold Spring Harbor Laboratory" target="biology" />
+      <edge id="36" source="College of Staten Island (City University of New York)" target="network reliability" />
+      <edge id="37" source="College of William and Mary" target="linear algebra" />
+      <edge id="38" source="College of Wooster" target="biology" />
+      <edge id="39" source="Colorado State University" target="biosciences" />
+      <edge id="40" source="Columbia University" target="nsec" />
+      <edge id="41" source="Columbus State University" target="security" />
+      <edge id="42" source="Cornell University" target="biology" />
+      <edge id="43" source="Cornell University" target="optimal control" />
+      <edge id="44" source="CUNY Brooklyn College" target="biology" />
+      <edge id="45" source="CUNY Queensborough Community College" target="physics" />
+      <edge id="46" source="Dauphin Island Sea Lab" target="marine" />
+      <edge id="47" source="DePaul University" target="medical informatics" />
+      <edge id="48" source="Donald Danforth Plant Science Center" target="biology" />
+      <edge id="49" source="Drexel University" target="energy" />
+      <edge id="50" source="Duke University" target="marine biology" />
+      <edge id="51" source="Duke University" target="grand challenges" />
+      <edge id="52" source="Earlham College" target="biology" />
+      <edge id="53" source="Eastern Kentucky University" target="biology" />
+      <edge id="54" source="Field Museum of Natural History" target="biology" />
+      <edge id="55" source="Florida A&amp;M University" target="biology" />
+      <edge id="56" source="Florida International University" target="sensors" />
+      <edge id="57" source="Florida State University" target="micro air vehicles" />
+      <edge id="58" source="Florida State University" target="photochemistry" />
+      <edge id="59" source="GA Tech Research Corporation" target="robotics" />
+      <edge id="60" source="Georgetown University" target="esperimental" />
+      <edge id="61" source="Georgetown University" target="biology" />
+      <edge id="62" source="Georgia Institute of  Technology" target="data analytics" />
+      <edge id="63" source="Georgia Institute of Technology" target="chemical ecology" />
+      <edge id="64" source="Harvard Smithsonian Center for Astrophysics" target="solar astronomy" />
+      <edge id="65" source="Harvard University" target="micromechanics" />
+      <edge id="66" source="Harvard University" target="biology" />
+      <edge id="67" source="Hobart and William Smith Colleges" target="combin" />
+      <edge id="68" source="Humboldt State University" target="biology" />
+      <edge id="69" source="Illinois Institute of Technology" target="food safety" />
+      <edge id="70" source="Indiana University" target="applied mathematics" />
+      <edge id="71" source="Indiana University" target="biology" />
+      <edge id="72" source="Indiana University" target="nanomaterials" />
+      <edge id="73" source="Indiana University Purdue University Indianapolis" target="data science" />
+      <edge id="74" source="Indiana University-Purdue University Indianapolis (IUPUI)" target="cyber security" />
+      <edge id="75" source="Institute of Ecosystem Studies" target="biology" />
+      <edge id="76" source="Iowa State University" target="wind energy" />
+      <edge id="77" source="Iowa State University" target="biocatalysts" />
+      <edge id="78" source="Iowa State University" target="sensors" />
+      <edge id="79" source="Johns Hopkins University" target="biology" />
+      <edge id="80" source="Johns Hopkins University" target="biosciences" />
+      <edge id="81" source="Johns Hopkins University" target="nanobiotechnology" />
+      <edge id="82" source="Johnson C. Smith University" target="social inequalities" />
+      <edge id="83" source="Kansas State University" target="chemistry" />
+      <edge id="84" source="Kansas State University" target="engineering" />
+      <edge id="85" source="Kansas State University" target="number theory" />
+      <edge id="86" source="Kennesaw State University" target="chemistry" />
+      <edge id="87" source="Kent State University" target="ring theory" />
+      <edge id="88" source="Kent State University" target="chemistry" />
+      <edge id="89" source="Kenyon College" target="biology" />
+      <edge id="90" source="Kettering University" target="biology" />
+      <edge id="91" source="Lamar University" target="linear algebra" />
+      <edge id="92" source="Lehigh University" target="machine learning" />
+      <edge id="93" source="Long Island University" target="linguistics" />
+      <edge id="94" source="Louisiana State University" target="biology" />
+      <edge id="95" source="Louisiana State University" target="astronomy" />
+      <edge id="96" source="LSU, LA Tech, Southern, Tulane, UNO, Xavier" target="materials science" />
+      <edge id="97" source="Macalester College" target="paleontology" />
+      <edge id="98" source="Marine Biological Laboratory" target="biology" />
+      <edge id="99" source="Marquette University" target="biology" />
+      <edge id="100" source="Michigan State University" target="plant genomics" />
+      <edge id="101" source="Michigan State University" target="nuclear" />
+      <edge id="102" source="Mississippi State University" target="biology" />
+      <edge id="103" source="Mississippi State University" target="environmental" />
+      <edge id="104" source="Missouri Botanical Garden" target="biology" />
+      <edge id="105" source="Missouri State University" target="algebra" />
+      <edge id="106" source="Montana State University" target="chemical biology" />
+      <edge id="107" source="Muhlenberg College" target="number theory" />
+      <edge id="108" source="Nantucket Maria Mitchell Association" target="astronomy" />
+      <edge id="109" source="National Radio Astronomy Observatory" target="astronomy" />
+      <edge id="110" source="New Jersey Institute of Technology" target="optics" />
+      <edge id="111" source="New Mexico Institute of Mining and Technology" target="malware detection" />
+      <edge id="112" source="New Mexico State University" target="data analytics" />
+      <edge id="113" source="New York University" target="colloids" />
+      <edge id="114" source="New York University" target="nyu" />
+      <edge id="115" source="New York University" target="biology" />
+      <edge id="116" source="North Carolina State University" target="biology" />
+      <edge id="117" source="North Carolina State University" target="nano-enabled" />
+      <edge id="118" source="North Carolina State University" target="software analytics" />
+      <edge id="119" source="Northeastern University" target="data analytics" />
+      <edge id="120" source="Northeastern University" target="research" />
+      <edge id="121" source="Northeastern University" target="biology" />
+      <edge id="122" source="Northern Arizona University" target="astronomy" />
+      <edge id="123" source="Northwestern University" target="instrumentation" />
+      <edge id="124" source="Northwestern University" target="biosciences" />
+      <edge id="125" source="Ohio State University" target="biology" />
+      <edge id="126" source="Ohio University" target="psychology" />
+      <edge id="127" source="Ohio Wesleyan University" target="biology" />
+      <edge id="128" source="Ohio Wesleyan University" target="astronomy" />
+      <edge id="129" source="Oklahoma State University" target="chemistry" />
+      <edge id="130" source="Old Dominion University" target="coastal zone" />
+      <edge id="131" source="Oregon State University" target="networks" />
+      <edge id="132" source="Parkland College" target="biology" />
+      <edge id="133" source="Pennsylvania State University" target="biomaterials" />
+      <edge id="134" source="Pennsylvania State University" target="cardiovascular" />
+      <edge id="135" source="Pepperdine University" target="ecology" />
+      <edge id="136" source="Princeton University" target="molecular biology" />
+      <edge id="137" source="Princeton University" target="biosciences" />
+      <edge id="138" source="Purdue University" target="biosciences" />
+      <edge id="139" source="Purdue University" target="nanoscience" />
+      <edge id="140" source="Purdue University" target="algebraic geometry" />
+      <edge id="141" source="Rice University" target="biology" />
+      <edge id="142" source="Rochester Institute of Technology" target="graph theory" />
+      <edge id="143" source="Rochester Institute of Technology" target="physics" />
+      <edge id="144" source="Rochester Institute of  Technology" target="acquisition" />
+      <edge id="145" source="Rocky Mountain Biological Laboratory" target="biosciences" />
+      <edge id="146" source="Rutgers University - Camden" target="biology" />
+      <edge id="147" source="Salisbury University" target="parallel computing" />
+      <edge id="148" source="San Francisco State University" target="biology" />
+      <edge id="149" source="San Jose State University" target="molecular biology" />
+      <edge id="150" source="Scripps Institution of Oceanography - UCSD" target="oceanography" />
+      <edge id="151" source="Sea Research Foundation" target="biology" />
+      <edge id="152" source="Smithsonian Astrophysical Observatory" target="astronomy" />
+      <edge id="153" source="Smithsonian Institution" target="biology" />
+      <edge id="154" source="Smithsonian Institution" target="geoscience" />
+      <edge id="155" source="Southern Illinois University at Carbondale" target="materials chemistry" />
+      <edge id="156" source="Southern Illinois University at Edwardsville" target="archaeology" />
+      <edge id="157" source="SUNY College at Geneseo" target="nuclear physics" />
+      <edge id="158" source="Syracuse University" target="trauma research" />
+      <edge id="159" source="Tarleton State University" target="biology" />
+      <edge id="160" source="Temple University" target="pervasive computing" />
+      <edge id="161" source="Tennessee Tech University" target="manufacturing" />
+      <edge id="162" source="Tennessee Tech University" target="solar cells" />
+      <edge id="163" source="Texas A &amp; M University" target="air quality" />
+      <edge id="164" source="Texas A&amp;M University" target="astrophysics" />
+      <edge id="165" source="Texas A&amp;M University" target="uav" />
+      <edge id="166" source="Texas A&amp;M University" target="water" />
+      <edge id="167" source="Texas A&amp;M University" target="energy" />
+      <edge id="168" source="Texas A&amp;M University, Galveston" target="biodiversity" />
+      <edge id="169" source="Texas Christian University" target="atomic" />
+      <edge id="170" source="Texas State University" target="innovation" />
+      <edge id="171" source="The Children's Hospital of Philadelphia" target="injury science" />
+      <edge id="172" source="The College of Wooster" target="materials science" />
+      <edge id="173" source="The Scripps Research Institute" target="chemistry" />
+      <edge id="174" source="The Scripps Research Institute" target="biology" />
+      <edge id="175" source="Tufts University" target="biology" />
+      <edge id="176" source="Univeristy of Idaho" target="biology" />
+      <edge id="177" source="University Corporation for Atmospheric Research" target="atmospheric science" />
+      <edge id="178" source="University of Akron" target="polymer chemistry" />
+      <edge id="179" source="University of Alabama at Birmingham" target="biology" />
+      <edge id="180" source="University of Arizona" target="optics" />
+      <edge id="181" source="University of Arizona" target="autonomous cars" />
+      <edge id="182" source="University of Arkansas" target="biology" />
+      <edge id="183" source="University of Arkansas" target="nanotechnology" />
+      <edge id="184" source="University of California, Davis" target="bio-inspired" />
+      <edge id="185" source="University of California, Irvine" target="internet-of-things" />
+      <edge id="186" source="University of California, Los Angeles" target="chemistry" />
+      <edge id="187" source="University of California, San Diego" target="damage assessment" />
+      <edge id="188" source="University of California, Santa Barbara" target="marine biology" />
+      <edge id="189" source="University of  California - Berkeley" target="big data" />
+      <edge id="190" source="University of California - Davis" target="chemistry" />
+      <edge id="191" source="University of California - Merced" target="chemistry" />
+      <edge id="192" source="University of California - Riverside" target="chemistry" />
+      <edge id="193" source="University of California Riverside" target="biology" />
+      <edge id="194" source="University of California San Francisco" target="genetics/genomics" />
+      <edge id="195" source="University of Central Oklahoma" target="biology" />
+      <edge id="196" source="University of Chicago" target="biology" />
+      <edge id="197" source="University of Chicago" target="amo" />
+      <edge id="198" source="University of Chicago" target="geometry" />
+      <edge id="199" source="University of Colorado, Boulder" target="atomic" />
+      <edge id="200" source="University of Colorado at Boulder" target="solar physics" />
+      <edge id="201" source="University of Colorado Boulder" target="biology" />
+      <edge id="202" source="University of Connecticut" target="nanomaterials" />
+      <edge id="203" source="University of Connecticut" target="organic" />
+      <edge id="204" source="University of Connecticut" target="biology" />
+      <edge id="205" source="University of Connecticut" target="inorganic" />
+      <edge id="206" source="University of Connecticut" target="biosciences" />
+      <edge id="207" source="University of Delaware" target="oceanography" />
+      <edge id="208" source="University of Florida" target="biology" />
+      <edge id="209" source="University of Georgia" target="nanotechnology" />
+      <edge id="210" source="University of Georgia" target="biology" />
+      <edge id="211" source="University of Georgia" target="microbiology" />
+      <edge id="212" source="University of Georgia Research Foundation, INC" target="nanotechnology" />
+      <edge id="213" source="University of Georgia Research Foundation Inc." target="bioarchaeology" />
+      <edge id="214" source="University of Hawaii" target="biology" />
+      <edge id="215" source="University of Hawaii, Institute for Astronomy" target="astronomy" />
+      <edge id="216" source="University of Hawaii at Hilo" target="biosciences" />
+      <edge id="217" source="University of Hawaii at M&amp;#257;noa campus" target="geology" />
+      <edge id="218" source="University of Houston" target="renewable energy" />
+      <edge id="219" source="University of Houston" target="neurotechnology" />
+      <edge id="220" source="University of Illinois at Urbana-Champaign" target="bioengineering" />
+      <edge id="221" source="University of Illinois at Urbana-Champaign" target="biology" />
+      <edge id="222" source="University of Iowa" target="biology" />
+      <edge id="223" source="University of Kansas" target="biology" />
+      <edge id="224" source="University of Kentucky" target="chemical eng." />
+      <edge id="225" source="University of Kentucky" target="biomaterials" />
+      <edge id="226" source="University of Kentucky" target="biochemistry" />
+      <edge id="227" source="University of Louisiana at Lafayette" target="watershed science" />
+      <edge id="228" source="University of Maine" target="sustainable" />
+      <edge id="229" source="University of Maryland" target="crytography" />
+      <edge id="230" source="University of Massachusettes Boston" target="biodiversity" />
+      <edge id="231" source="University of Massachusetts, Amherst" target="renewable energy" />
+      <edge id="232" source="University of Massachusetts-Boston" target="biology" />
+      <edge id="233" source="University of Massachusetts Dartmouth" target="biology" />
+      <edge id="234" source="University of Michigan" target="nanophotonics" />
+      <edge id="235" source="University of Michigan" target="biology" />
+      <edge id="236" source="University of Michigan Ann Arbor" target="meteorology" />
+      <edge id="237" source="University of Michigan-Dearborn" target="sustainable energy" />
+      <edge id="238" source="University of Minnesota Duluth" target="combinatorics" />
+      <edge id="239" source="University of Minnesota-Twin Cities" target="civil engineering" />
+      <edge id="240" source="University of Missouri" target="physics" />
+      <edge id="241" source="University of Missouri" target="biology" />
+      <edge id="242" source="University of Missouri-Kansas City" target="tectonics" />
+      <edge id="243" source="University of Montana" target="chemistry" />
+      <edge id="244" source="University of Nebraska-Lincoln" target="health disparities" />
+      <edge id="245" source="University of Nebraska-Lincoln" target="biology" />
+      <edge id="246" source="University of Nebraska-Lincoln" target="sustainability" />
+      <edge id="247" source="University of Nebraska - Lincoln" target="redox biology" />
+      <edge id="248" source="University of Nevada, Reno" target="climate change" />
+      <edge id="249" source="University of Nevada Las Vegas" target="evolution" />
+      <edge id="250" source="University of New Mexico" target="nanomaterials" />
+      <edge id="251" source="University of New Mexico" target="biology" />
+      <edge id="252" source="University of New Orleans" target="synthesis" />
+      <edge id="253" source="University of North Carolina at Chapel Hill" target="genetics" />
+      <edge id="254" source="University of North Carolina at Charlotte" target="analytics" />
+      <edge id="255" source="University of North Carolina at Charlotte" target="biotechnology" />
+      <edge id="256" source="University of North Carolina-Chapel Hill" target="chemistry" />
+      <edge id="257" source="University of North Carolina - Charlotte" target="chemistry" />
+      <edge id="258" source="University of North Dakota" target="bioinformatics" />
+      <edge id="259" source="University of North Dakota (UND)" target="renewable chemistry" />
+      <edge id="260" source="University of North Florida" target="marine biology" />
+      <edge id="261" source="University of North Texas" target="software testing" />
+      <edge id="262" source="University of Notre Dame" target="cloud computing" />
+      <edge id="263" source="University of Notre Dame" target="chemistry" />
+      <edge id="264" source="University of Notre Dame" target="biosciences" />
+      <edge id="265" source="University of Notre Dame" target="astronomy" />
+      <edge id="266" source="University of Oklahoma Norman Campus" target="severe storms" />
+      <edge id="267" source="University of Oregon" target="molecular" />
+      <edge id="268" source="University of Oregon" target="chemistry" />
+      <edge id="269" source="University of Pennsylvania" target="sensors" />
+      <edge id="270" source="University of Pittsburgh" target="biology" />
+      <edge id="271" source="University of Puerto Rico" target="biology" />
+      <edge id="272" source="University of Puerto Rico Río Piedras" target="puerto rico" />
+      <edge id="273" source="University of Puerto Rico Río Piedras Campus" target="biotechnology" />
+      <edge id="274" source="University of Rhode Island" target="marine science" />
+      <edge id="275" source="University of Rochester" target="machine learning" />
+      <edge id="276" source="University of Rochester" target="optics" />
+      <edge id="277" source="University of South Carolina" target="particle physics" />
+      <edge id="278" source="University of South Dakota" target="biology" />
+      <edge id="279" source="University of South Dakota" target="fluorine" />
+      <edge id="280" source="University of Southern California" target="physical" />
+      <edge id="281" source="University of Southern California" target="microbiology" />
+      <edge id="282" source="University of Southern California" target="object-oriented" />
+      <edge id="283" source="University of South Florida" target="weather" />
+      <edge id="284" source="University of Tennessee" target="biology" />
+      <edge id="285" source="University of Texas" target="chemistry" />
+      <edge id="286" source="University of Texas at  Austin" target="archaeology" />
+      <edge id="287" source="University of Texas at El Paso" target="biology" />
+      <edge id="288" source="University of Texas - Austin" target="wireless networking" />
+      <edge id="289" source="University of Toledo" target="physics (amo)" />
+      <edge id="290" source="University of Toledo" target="biology" />
+      <edge id="291" source="University of Vermont" target="biogeochemistry" />
+      <edge id="292" source="University of Vermont &amp; State Agricultural College" target="neuroscience" />
+      <edge id="293" source="University of Virginia" target="biology" />
+      <edge id="294" source="University of Virginia" target="population biology" />
+      <edge id="295" source="University of Washington" target="solar" />
+      <edge id="296" source="University of Washington" target="biosciences" />
+      <edge id="297" source="University of Wisconsin Madison" target="biology" />
+      <edge id="298" source="University of Wisconsin-Madison" target="astronomy" />
+      <edge id="299" source="University of Wisconsin-Oshkosh" target="chemistry" />
+      <edge id="300" source="University of Wisconsin - Stout" target="robotics" />
+      <edge id="301" source="University of Wisconsin-Stout" target="water" />
+      <edge id="302" source="University of Wyoming" target="astronomy" />
+      <edge id="303" source="Vanderbilt University" target="chemical biology" />
+      <edge id="304" source="Virginia Institute of Marine Science" target="marine science" />
+      <edge id="305" source="Virginia Polytechnic Institute and State University or Virginia Tech" target="agriculture" />
+      <edge id="306" source="Washington State University" target="biofilms" />
+      <edge id="307" source="Washington State University" target="atmospheric science" />
+      <edge id="308" source="Washington State University" target="computer science" />
+      <edge id="309" source="Washington University in St. Louis" target="machine learning" />
+      <edge id="310" source="Wayne State University" target="manufacturing" />
+      <edge id="311" source="Western Washington University, Anacortes, WA." target="marine science" />
+      <edge id="312" source="West Virginia University" target="nanomaterials" />
+      <edge id="313" source="West Virginia University" target="chemistry" />
+      <edge id="314" source="William Marsh Rice University" target="nanotechnology " />
+      <edge id="315" source="Woods Hole Oceanographic Institution" target="oceanography" />
+      <edge id="316" source="Worcester Polytechnic Institute" target="biochemistry" />
+    </edges>
+  </graph>
+</gexf>
